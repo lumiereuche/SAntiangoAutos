@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+}
+body{
+    background: black;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+
+}
+.image-box{
+  width: 100%;
+  height:70vh;
+}
+ img{
+  width: 100%;
+  height: 50vh;
+}
+/* .overlay{
+  position: absolute;
+  top: 50%;
+  left: 50;
+  transform: translate(-50,-50);
+  color: white;
+  font-size: 20px;
+  border: 1px solid gray;
+}  */
+
+.language{
+    display: flex;
+    margin-left: 5px;
+   
+
+}
+
+.policy{
+   margin-left: 20px;
+}
+
+.end-right{
+    display: flex;
+}
+
+
+.chess{
+    display: flex;
+    justify-content: space-between;
+    background: #3498db;
+    display: flex;
+    width: 100%;
+    border-radius: 4px;
+    margin: 0 auto;
+    min-height: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 12px;
+    text-align:start;
+    padding-top: 7px;
+    margin-top: 2px;
+  }
+  .pol-der{
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .pir-der{
+    font-size: 13px;
+    margin-left: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .pop{
+    margin-left: 100px;
+    display: flex;
+  }
+
+  .game{
+    display: flex;
+  }
+  .play{
+    display: flex;
+    margin-left: 50px;
+  }
+
+  .pro-der{
+    margin-right : 12px;
+    
+  }
+
+  .lang{
+    margin-right : 12px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
